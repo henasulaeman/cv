@@ -148,3 +148,8 @@ a.sidebar-link:hover {
     border-radius:50%;
     width:200px;
 }
+
+/* Border Resume */
+#tbl-left{
+    border-left: 5px solid orange;
+}
